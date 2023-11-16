@@ -1,7 +1,9 @@
-import Image from 'next/image'
+import Link from 'next/link';
 
 export default function HomePage() {
   return (
-    <div>HomePage</div>
+  <main>
+  <h1>Corp</h1>
+  </main>
   )
 }
